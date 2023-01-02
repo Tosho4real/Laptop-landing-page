@@ -175,7 +175,7 @@ nav {
         transform: translate(50%, 5);
     }
    .cover img {
-    height: 50vh;
+    height: 49vh;
    }
    .big-circle, .small-circle, .medium-circle{
     opacity: 0.2;
